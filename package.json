@@ -1,0 +1,24 @@
+{
+  "name": "dynamic-auth",
+  "version": "1.0.0",
+  "description": "This package allows the user to dynamically authenticate the user with the given model and jwt secret key",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepakraja03/npm-dynamic-auth-.git"
+  },
+  "author": "Deepak Raja R A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepakraja03/npm-dynamic-auth-/issues"
+  },
+  "homepage": "https://github.com/Deepakraja03/npm-dynamic-auth-#readme"
+}
