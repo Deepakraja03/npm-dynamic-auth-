@@ -1,5 +1,5 @@
 {
-  "name": "dynamic-auth",
+  "name": "dynamic-auth-v",
   "version": "1.0.0",
   "description": "This package allows the user to dynamically authenticate the user with the given model and jwt secret key",
   "main": "index.js",
